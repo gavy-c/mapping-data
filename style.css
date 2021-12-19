@@ -1,0 +1,124 @@
+body {
+	font-size:16px;
+	margin:5%;
+}
+
+
+
+h2 {
+	text-align: left;
+	color: #17B0B8;
+	float: left;
+	padding: px;
+	font-size: 20px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+
+h1 {
+	font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+	color: #228B22;
+	 font-weight: bold;
+
+}
+
+p {
+	color: #;
+	text-align: left;
+}
+
+
+
+
+
+.protest-info {
+
+text-align: left;
+	color: #00375c;
+	padding: 100px;
+	padding-bottom: 20px;
+padding-left: 0px;
+	font-size: 20px;
+ font-weight: bold;
+ font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.sub-header {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: normal;
+text-align: center;
+font-size: 20px;
+color: ##00375c;
+padding-bottom: 20px;
+
+}
+
+.grid-item {
+	background-color:#DDDDDD;
+	height:200px;
+	flex-basis:30%;
+	margin:2px;
+	margin-bottom: 2px;
+}
+
+.grid-item img {
+	display: table;
+	margin: 0 auto;
+}
+@media(min-width: 881px) {  
+
+
+.grid-area {
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.grid-item, .grid-text {
+	background-color: #ffdab9;
+	height: auto;
+	flex-basis: 40%;
+	margin: 20px;
+	margin-bottom: 1px;
+	padding: 20px;
+	text-align: center;
+}
+
+
+
+.information {
+	font-family: font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-weight: normal;
+	text-align: center;
+	font-size: 18px;
+
+}
+
+.bullet {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 18px;
+	color: #8B0000;
+	text-align: center;
+	padding-right: 38px;
+}
+
+
+.heading {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-weight: bolder;
+	text-align: center;
+	font-size: 25px;
+	color: darkred;
+}
+
